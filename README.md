@@ -1,1 +1,1 @@
-# foodigram
+# CSCI567 - foodigram
