@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "351118096288",
+    "project_id": "foodigram-ed3ee",
+    "storage_bucket": "foodigram-ed3ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351118096288:android:6e0d71a11c9d6b49f2d6c5",
+        "android_client_info": {
+          "package_name": "com.example.foodigram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351118096288-bct3mdmi48um2hnbfevk9l7dtmhgbofn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodigram",
+            "certificate_hash": "bc8f005c13f9518bdc77b928021975bcee4c3e93"
+          }
+        },
+        {
+          "client_id": "351118096288-5sja72eoj2r1g19lm9i80vojo7ijkhu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCy27-wwlivaIJz3n9-N30sAkEJFb-v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351118096288-5sja72eoj2r1g19lm9i80vojo7ijkhu5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351118096288-np3sufgj78s811q6cd32hr9ih3tr7tj3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodigram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

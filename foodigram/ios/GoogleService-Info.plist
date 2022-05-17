@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>351118096288-np3sufgj78s811q6cd32hr9ih3tr7tj3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.351118096288-np3sufgj78s811q6cd32hr9ih3tr7tj3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>351118096288-bct3mdmi48um2hnbfevk9l7dtmhgbofn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8OVIFy50FywKfLodso91KBkM9zxH8XQs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>351118096288</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.foodigram</string>
+	<key>PROJECT_ID</key>
+	<string>foodigram-ed3ee</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodigram-ed3ee.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:351118096288:ios:4ff683f49f9774ccf2d6c5</string>
+</dict>
+</plist>
